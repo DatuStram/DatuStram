@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Daturachan
+- 👋 Hi, I’m Datura.
 - 👀 I’m interested in geeky, nerdy and kinky stuff :heart_on_fire:
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on troubleshooting Minecraft mods bugs.
-- 📫 How to reach me: you can't, I like peace and quiet.
+- 🌱 I’m currently learning python and getting back into Java after more than a decade.
+- 💞️ I’m looking to collaborate on troubleshooting Minecraft mods bugs and possibly fixing them.
+- 📫 How to reach me: you can't, I like peace and quiet. I might have a Discord tho...
 
 <!---
 Daturachan/Daturachan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
