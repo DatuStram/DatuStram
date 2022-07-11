@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Datura, a Belgian trans-girl and a general salty bitch.
+- 👋 Hi, I’m Datura, a Belgian trans-girl and general salty bitch.
 - 👀 I’m interested in geeky, nerdy and kinky stuff :heart_on_fire:
 - 🌱 I’m currently learning Python and getting back into Java after more than a decade.
 - 💞️ I’m looking to collaborate on troubleshooting Minecraft mods and possibly fixing them.
