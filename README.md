@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Datura.
 - 👀 I’m interested in geeky, nerdy and kinky stuff :heart_on_fire:
-- 🌱 I’m currently learning python and getting back into Java after more than a decade.
+- 🌱 I’m currently learning Python and getting back into Java after more than a decade.
 - 💞️ I’m looking to collaborate on troubleshooting Minecraft mods and possibly fixing them.
 - 📫 How to reach me: you can't, I like peace and quiet. I might have a Discord link hidden somewhere though...
 
